@@ -15,9 +15,7 @@ This page provides a single-source of discovery for spatial computing related AW
     - [Simple Game Studio on AWS](#amazon-ec2-cluster-for-unreal-swarms)
     - [Game Production in the Cloud Example Pipeline](#game-production-in-the-cloud-example-pipeline)
     - [AWS Gaming Unity Labs Sample](#aws-gaming-unity-labs-sample)
-    - [Amazon Sumerian Hosts Samples](#amazon-sumerian-hosts-samples)
     - [AWS Spatial Computing Samples](#aws-spatial-computing-samples)
-    - [Amazon Sumerian ARCore Starter App](#amazon-sumerian-arcore-starter-app)
 - [Security](#security)
 - [License](#license-summary)
 
@@ -70,18 +68,9 @@ The CDK (or CloudFormation templates) creates a new AWS Virtual Private Cloud (V
 
 This repository contains a sample Unity game project that is used by several Self Paced Labs to demonstrate the use of the AWS Mobile SDK for Unity.
 
-### [Amazon Sumerian Hosts Samples](https://github.com/aws-samples/amazon-sumerian-host-samples)
-
-You will learn how simple and seamless it is to build an interactive and immersive Human-like Sumerian Hosts(without having to touch or press any button) on your AR/VR applications using Alexa. We are going to build a Sumerian Scene with a Host that answers your questions regarding AWS services, and uses TV to display videos about these services. We can ask the host to display content on TV directly, or ask about any AWS service or interrupt the Host at any point of time while she is explaining about a topic and ask further questions. This makes the Host more human like and interactive as she can listen to you when interrupted and take cross questions.
-
 ### [AWS Spatial Computing Samples](https://github.com/aws-samples/aws-spatial-computing-samples)
 
 This repository contains sample code for Spatial Computing applications on AWS
-
-### [Amazon Sumerian ARCore Starter App](https://github.com/aws-samples/amazon-sumerian-arcore-starter-app)
-
-A sample Android project that demonstrates how to create a simple augmented reality experience using Google's ARCore with the Amazon Sumerian service.
-
 
 ## Security
 
