@@ -15,7 +15,10 @@ This page provides a single-source of discovery for spatial computing related AW
     - [Simple Game Studio on AWS](#amazon-ec2-cluster-for-unreal-swarms)
     - [Game Production in the Cloud Example Pipeline](#game-production-in-the-cloud-example-pipeline)
     - [AWS Gaming Unity Labs Sample](#aws-gaming-unity-labs-sample)
+- [Archive](#archive)
     - [AWS Spatial Computing Samples](#aws-spatial-computing-samples)
+    - [Amazon Sumerian Hosts Samples](#amazon-sumerian-hosts-samples)
+    - [Amazon Sumerian ARCore Starter App](#amazon-sumerian-arcore-starter-app)
 - [Security](#security)
 - [License](#license-summary)
 
@@ -33,18 +36,17 @@ NVIDIA Omniverse Nucleus is the database and collaboration engine that enables r
 
 This Unreal Engine sample project demonstrates how to bring Epic Games' MetaHuman digital characters to life using the Amazon Polly text-to-speech service from AWS. Use this project as a starting point for creating your own Unreal Engine applications that leverage Amazon Polly to give voice to your MetaHumans using one of 16 different English language voices spanning 5 dialects. Or extend this project to use any of Polly's 60+ voices covering 20+ languages and 13+ dialects.
 
-
 ### [Amazon Sumerian Hosts for Web3D](https://github.com/aws-samples/amazon-sumerian-hosts)
 
 Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It leverages AWS services including Amazon Polly (text-to-speech) and Amazon Lex (chatbot).
 
 ### [Deploying Unreal Engine Pixel Streaming Server on Amazon EC2](https://github.com/aws-samples/deploying-unreal-engine-pixel-streaming-server-on-ec2)
 
-Amazon Sumerian Hosts (Hosts) is an experimental open source project that aims to make it easy to create interactive animated 3D characters for Babylon.js, three.js, and other web 3D frameworks. It leverages AWS services including Amazon Polly (text-to-speech) and Amazon Lex (chatbot).
+This sample is for those who use Unreal Engine 4 to build content and wish to deploy this content to an audience via UE4 pixel streams. Content examples include but are not limited to: interactive entertainment, architectural visualization, high fidelity car configurators, or anyone who needs to let users access high quality interactive content via thin clients such as web browsers.
 
 ### [Amazon GameLift Unreal Engine](https://github.com/aws-samples/amazon-gamelift-unreal-engine)
 
-This sample is for those who use Unreal Engine 4 to build content and wish to deploy this content to an audience via UE4 pixel streams. Content examples include but are not limited to: interactive entertainment, architectural visualization, high fidelity car configurators, or anyone who needs to let users access high quality interactive content via thin clients such as web browsers.
+This repository contains code used for the video series, Building Games on AWS: Amazon GameLift with Unreal Engine. For the full guide, please see the video series.
 
 ### [Amazon GameLift Unity](https://github.com/aws-samples/amazon-gamelift-unity)
 
@@ -68,9 +70,20 @@ The CDK (or CloudFormation templates) creates a new AWS Virtual Private Cloud (V
 
 This repository contains a sample Unity game project that is used by several Self Paced Labs to demonstrate the use of the AWS Mobile SDK for Unity.
 
+## Archive
+The below projects are no longer active. They remain listed in this index for referential and tracking purposes.
+
 ### [AWS Spatial Computing Samples](https://github.com/aws-samples/aws-spatial-computing-samples)
 
 This repository contains sample code for Spatial Computing applications on AWS
+
+### [Amazon Sumerian Hosts Samples](https://github.com/aws-samples/amazon-sumerian-host-samples)
+
+You will learn how simple and seamless it is to build an interactive and immersive Human-like Sumerian Hosts(without having to touch or press any button) on your AR/VR applications using Alexa. We are going to build a Sumerian Scene with a Host that answers your questions regarding AWS services, and uses TV to display videos about these services. We can ask the host to display content on TV directly, or ask about any AWS service or interrupt the Host at any point of time while she is explaining about a topic and ask further questions. This makes the Host more human like and interactive as she can listen to you when interrupted and take cross questions.
+
+### [Amazon Sumerian ARCore Starter App](https://github.com/aws-samples/amazon-sumerian-arcore-starter-app)
+
+A sample Android project that demonstrates how to create a simple augmented reality experience using Google's ARCore with the Amazon Sumerian service.
 
 ## Security
 
