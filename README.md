@@ -19,6 +19,7 @@ This page provides a single-source of discovery for spatial computing related AW
     - [AWS Spatial Computing Samples](#aws-spatial-computing-samples)
     - [Amazon Sumerian Hosts Samples](#amazon-sumerian-hosts-samples)
     - [Amazon Sumerian ARCore Starter App](#amazon-sumerian-arcore-starter-app)
+    - [Amazon Sumerian ARKit Starter App](#amazon-sumerian-arkit-starter-app)
 - [Security](#security)
 - [License](#license-summary)
 
@@ -84,6 +85,10 @@ You will learn how simple and seamless it is to build an interactive and immersi
 ### [Amazon Sumerian ARCore Starter App](https://github.com/aws-samples/amazon-sumerian-arcore-starter-app)
 
 A sample Android project that demonstrates how to create a simple augmented reality experience using Google's ARCore with the Amazon Sumerian service.
+
+### [Amazon Sumerian ARKit Starter App](https://github.com/aws-samples/amazon-sumerian-arkit-starter-app)
+
+A sample XCode project that demonstrates how to create a simple augmented reality experience using Apple's ARKit with the Amazon Sumerian service.
 
 ## Security
 
