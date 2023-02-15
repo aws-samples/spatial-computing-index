@@ -5,6 +5,7 @@ This page provides a single-source of discovery for spatial computing related AW
 ## Contents
 - [Projects](#projects)
     - [Amazon Visual Asset Management System](#amazon-visual-asset-management-system)
+    - [Unity Build Server with AWS CDK](#unity-build-server-with-aws-cdk)
     - [NVIDIA Omniverse Nucleus on Amazon EC2](#nvidia-omniverse-nucleus-on-amazon-ec2)
     - [Amazon Polly with Epic Games Metahumans](#amazon-polly-with-epic-games-metahumans)
     - [Amazon Sumerian Hosts for Web3D](#amazon-sumerian-hosts-for-web3d)
@@ -28,6 +29,10 @@ This page provides a single-source of discovery for spatial computing related AW
 ### [Amazon Visual Asset Management System](https://github.com/awslabs/visual-asset-management-system)
 
 Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of specialized visual assets used in spatial computing. VAMS offers a simplified solution for organizations to ingest, store, and manage visual assets in the cloud, which empowers any user with a web browser to upload, manage, visualize, transform, and retrieve visual assets. Existing workflows that leverage both custom code and pre-built or third-party applications can also be migrated to VAMS and ran in the AWS cloud, as opposed to being limited by the on-premise capacity available. VAMS is customizable and expandable with option of being further tailored to specific use-cases by development teams.
+
+### [Unity Build Server with AWS CDK](https://github.com/aws-samples/unity-build-server-with-aws-cdk)
+
+This AWS CDK sample projects deploys a Unity Build Server and Unity License Server on Amazon EC2. Unity Build Servers enable you to scale your build capacity with both automated and on-demand builds on Amazon EC2 hardware. Leverage floating licenses to easily deploy and manage build infrastructure at scale.
 
 ### [NVIDIA Omniverse Nucleus on Amazon EC2](https://github.com/aws-samples/nvidia-omniverse-nucleus-on-amazon-ec2)
 
