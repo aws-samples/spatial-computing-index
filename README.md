@@ -5,6 +5,7 @@ This page provides a single-source of discovery for spatial computing related AW
 ## Contents
 - [Projects](#projects)
     - [Amazon Visual Asset Management System](#amazon-visual-asset-management-system)
+    - [Pixel Streaming on Amazon Elastic Kubernetes Service](#pixel-streaming-on-amazon-elastic-kubernetes-service)
     - [Spatial Real Time Translation](https://github.com/aws-samples/spatial-real-time-translation)
     - [Unity Build Server with AWS CDK](#unity-build-server-with-aws-cdk)
     - [NVIDIA Omniverse Nucleus on Amazon EC2](#nvidia-omniverse-nucleus-on-amazon-ec2)
@@ -30,6 +31,9 @@ This page provides a single-source of discovery for spatial computing related AW
 ### [Amazon Visual Asset Management System](https://github.com/awslabs/visual-asset-management-system)
 
 Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of specialized visual assets used in spatial computing. VAMS offers a simplified solution for organizations to ingest, store, and manage visual assets in the cloud, which empowers any user with a web browser to upload, manage, visualize, transform, and retrieve visual assets. Existing workflows that leverage both custom code and pre-built or third-party applications can also be migrated to VAMS and ran in the AWS cloud, as opposed to being limited by the on-premise capacity available. VAMS is customizable and expandable with option of being further tailored to specific use-cases by development teams.
+
+### [Pixel Streaming on Amazon Elastic Kubernetes Service](https://github.com/aws-samples/pixel-streaming-on-eks)
+Sample code for deploying Pixel streaming on Amazon EKS.
 
 ### [Spatial Real Time Translation](https://github.com/aws-samples/spatial-real-time-translation)
 In this sample we show how Amazon Transcribe, Amazon Translate, and Amazon Polly can be used together to produce a near real-time speech-to-speech translator solution for your next VR project.
