@@ -33,7 +33,7 @@ This page provides a single-source of discovery for spatial computing related AW
 Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of specialized visual assets used in spatial computing. VAMS offers a simplified solution for organizations to ingest, store, and manage visual assets in the cloud, which empowers any user with a web browser to upload, manage, visualize, transform, and retrieve visual assets. Existing workflows that leverage both custom code and pre-built or third-party applications can also be migrated to VAMS and ran in the AWS cloud, as opposed to being limited by the on-premise capacity available. VAMS is customizable and expandable with option of being further tailored to specific use-cases by development teams.
 
 ### [Pixel Streaming on Amazon Elastic Kubernetes Service](https://github.com/aws-samples/pixel-streaming-on-eks)
-Sample code for deploying Pixel streaming on Amazon EKS.
+Pixel Streaming is a remote rendering library in Unreal Engine. In this sample we show how to use Pixel Streaming with Amazon Elastic Kubernetes Service (EKS). By using EKS, we can utilize a scalable and cost-efficient cloud rendering environment.
 
 ### [Spatial Real Time Translation](https://github.com/aws-samples/spatial-real-time-translation)
 In this sample we show how Amazon Transcribe, Amazon Translate, and Amazon Polly can be used together to produce a near real-time speech-to-speech translator solution for your next VR project.
