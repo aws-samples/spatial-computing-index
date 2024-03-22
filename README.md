@@ -19,6 +19,7 @@ This page provides a single-source of discovery for spatial computing related AW
     - [Game Production in the Cloud Example Pipeline](#game-production-in-the-cloud-example-pipeline)
     - [AWS Gaming Unity Labs Sample](#aws-gaming-unity-labs-sample)
     - [Amazon API Gateway WebSocket API and Unity WebSocket Client Component](#amazon-api-gateway-websocket-api-and-unity-websocket-client-component)
+    - [Berkeley Room Designer](#berkeley-room-designer)
 - [Archive](#archive)
     - [AWS Spatial Computing Samples](#aws-spatial-computing-samples)
     - [Amazon Sumerian Hosts Samples](#amazon-sumerian-hosts-samples)
@@ -88,6 +89,11 @@ This repository contains a sample Unity game project that is used by several Sel
 ### [Amazon API Gateway WebSocket API and Unity WebSocket Client Component](https://github.com/aws-samples/amazon-api-gateway-websocket-api-and-unity-websocket-client-component)
 
 This sample project demonstrates deploying an Amazon API Gateway WebSocket API and building a Unity WebSocket Client component. The project includes AWS CDK code that deploys the cloud resources and a Unity project. The Unity project includes a .NET implementation of a WebSocket Client and sample game code using the WebSocket Client.
+
+### [Berkeley Room Designer](https://github.com/aws-samples/berkeley-room-designer)
+
+This repository contains a (web-based and CLI) room designer which utilizes and collates furnishings from the [Amazon Berkeley Objects Dataset](https://amazon-berkeley-objects.s3.amazonaws.com/index.html#aws) and is primarily intended to be a sample for working with it.
+
 
 ## Archive
 The below projects are no longer active. They remain listed in this index for referential and tracking purposes.
