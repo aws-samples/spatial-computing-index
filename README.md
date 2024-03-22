@@ -20,6 +20,7 @@ This page provides a single-source of discovery for spatial computing related AW
     - [AWS Gaming Unity Labs Sample](#aws-gaming-unity-labs-sample)
     - [Amazon API Gateway WebSocket API and Unity WebSocket Client Component](#amazon-api-gateway-websocket-api-and-unity-websocket-client-component)
     - [Berkeley Room Designer](#berkeley-room-designer)
+    - [Empower Your WebXR App Using AWS Serverless Architecture](#empower-your-webxr-app-using-aws-serverless-architecture)
 - [Archive](#archive)
     - [AWS Spatial Computing Samples](#aws-spatial-computing-samples)
     - [Amazon Sumerian Hosts Samples](#amazon-sumerian-hosts-samples)
@@ -94,6 +95,9 @@ This sample project demonstrates deploying an Amazon API Gateway WebSocket API a
 
 This repository contains a (web-based and CLI) room designer which utilizes and collates furnishings from the [Amazon Berkeley Objects Dataset](https://amazon-berkeley-objects.s3.amazonaws.com/index.html) and is primarily intended to be a sample for working with it.
 
+### [Empower Your WebXR App Using AWS Serverless Architecture](https://github.com/aws-samples/aws-serverless-example-for-webxr)
+
+This repository contains an example solution on how to enhance your WebXR applications using AWS Serverless Services, providing scalable, efficient, and seamless user experiences.
 
 ## Archive
 The below projects are no longer active. They remain listed in this index for referential and tracking purposes.
