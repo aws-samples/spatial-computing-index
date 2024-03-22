@@ -92,7 +92,7 @@ This sample project demonstrates deploying an Amazon API Gateway WebSocket API a
 
 ### [Berkeley Room Designer](https://github.com/aws-samples/berkeley-room-designer)
 
-This repository contains a (web-based and CLI) room designer which utilizes and collates furnishings from the [Amazon Berkeley Objects Dataset](https://amazon-berkeley-objects.s3.amazonaws.com/index.html#aws) and is primarily intended to be a sample for working with it.
+This repository contains a (web-based and CLI) room designer which utilizes and collates furnishings from the [Amazon Berkeley Objects Dataset](https://amazon-berkeley-objects.s3.amazonaws.com/index.html) and is primarily intended to be a sample for working with it.
 
 
 ## Archive
