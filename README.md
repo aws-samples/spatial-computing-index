@@ -21,6 +21,7 @@ This page provides a single-source of discovery for spatial computing related AW
     - [Amazon API Gateway WebSocket API and Unity WebSocket Client Component](#amazon-api-gateway-websocket-api-and-unity-websocket-client-component)
     - [Berkeley Room Designer](#berkeley-room-designer)
     - [Empower Your WebXR App Using AWS Serverless Architecture](#empower-your-webxr-app-using-aws-serverless-architecture)
+    - [Generative AI Avatar Chat](#generative-ai-avatar-chat)
 - [Archive](#archive)
     - [AWS Spatial Computing Samples](#aws-spatial-computing-samples)
     - [Amazon Sumerian Hosts Samples](#amazon-sumerian-hosts-samples)
@@ -98,6 +99,10 @@ This repository contains a (web-based and CLI) room designer which utilizes and 
 ### [Empower Your WebXR App Using AWS Serverless Architecture](https://github.com/aws-samples/aws-serverless-example-for-webxr)
 
 This repository contains an example solution on how to enhance your WebXR applications using AWS Serverless Services, providing scalable, efficient, and seamless user experiences.
+
+### [Generative AI Avatar Chat](https://github.com/aws-samples/generative-ai-avatar-chat)
+
+This repository contains a sample implementation of a Generative AI chatbot interfaced with a 3D avatar. The project includes AWS CDK code that deploys the cloud resources and the React-babylon frontend web application. Generative AI Chat is powered by Amazon Bedrock.
 
 ## Archive
 The below projects are no longer active. They remain listed in this index for referential and tracking purposes.
