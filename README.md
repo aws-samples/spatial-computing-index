@@ -1,6 +1,6 @@
 # AWS Spatial Computing Index Page
 
-This page provides a single-source of discovery for spatial computing related AWS sample projects on Github.
+This page provides a single-source of discovery for Spatial Computing related AWS solutions and sample projects on Github.
 
 ## Contents
 - [Solutions](#solutions)
