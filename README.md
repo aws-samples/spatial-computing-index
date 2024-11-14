@@ -5,6 +5,7 @@ This page provides a single-source of discovery for spatial computing related AW
 ## Contents
 - [Projects](#projects)
     - [Amazon Visual Asset Management System](#amazon-visual-asset-management-system)
+    - [AWS Data Transformation Pipeline CDK Constructs](#aws-data-transformation-pipeline-cdk-constructs)
     - [Pixel Streaming on Amazon Elastic Kubernetes Service](#pixel-streaming-on-amazon-elastic-kubernetes-service)
     - [Spatial Real Time Translation](https://github.com/aws-samples/spatial-real-time-translation)
     - [Unity Build Server with AWS CDK](#unity-build-server-with-aws-cdk)
@@ -35,6 +36,9 @@ This page provides a single-source of discovery for spatial computing related AW
 ### [Amazon Visual Asset Management System](https://github.com/awslabs/visual-asset-management-system)
 
 Visual Asset Management System (VAMS) is a purpose-built, AWS native solution for the management and distribution of specialized visual assets used in spatial computing. VAMS offers a simplified solution for organizations to ingest, store, and manage visual assets in the cloud, which empowers any user with a web browser to upload, manage, visualize, transform, and retrieve visual assets. Existing workflows that leverage both custom code and pre-built or third-party applications can also be migrated to VAMS and ran in the AWS cloud, as opposed to being limited by the on-premise capacity available. VAMS is customizable and expandable with option of being further tailored to specific use-cases by development teams.
+
+### [AWS Data Transformation Pipeline CDK Constructs](https://github.com/awslabs/data-transformation-pipeline-cdk-constructs)
+The AWS Data Transformation Pipeline Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions in code to create predictable and repeatable infrastructure, called constructs. The goal of AWS Data Transformation Pipeline CDK Constructs is to help developers build data transformation pipelines with pattern-based definitions for their architecture.
 
 ### [Pixel Streaming on Amazon Elastic Kubernetes Service](https://github.com/aws-samples/pixel-streaming-on-eks)
 Pixel Streaming is a remote rendering library in Unreal Engine. In this sample we show how to use Pixel Streaming with Amazon Elastic Kubernetes Service (EKS). By using EKS, we can utilize a scalable and cost-efficient cloud rendering environment.
