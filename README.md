@@ -3,9 +3,10 @@
 This page provides a single-source of discovery for spatial computing related AWS sample projects on Github.
 
 ## Contents
-- [Projects](#projects)
+- [Solutions](#solutions)
     - [Amazon Visual Asset Management System](#amazon-visual-asset-management-system)
     - [AWS Data Transformation Pipeline CDK Constructs](#aws-data-transformation-pipeline-cdk-constructs)
+- [Samples](#samples)
     - [Pixel Streaming on Amazon Elastic Kubernetes Service](#pixel-streaming-on-amazon-elastic-kubernetes-service)
     - [Spatial Real Time Translation](https://github.com/aws-samples/spatial-real-time-translation)
     - [Unity Build Server with AWS CDK](#unity-build-server-with-aws-cdk)
@@ -31,7 +32,7 @@ This page provides a single-source of discovery for spatial computing related AW
 - [Security](#security)
 - [License](#license-summary)
 
-## Projects
+## Solutions
 
 ### [Amazon Visual Asset Management System](https://github.com/awslabs/visual-asset-management-system)
 
@@ -39,6 +40,8 @@ Visual Asset Management System (VAMS) is a purpose-built, AWS native solution fo
 
 ### [AWS Data Transformation Pipeline CDK Constructs](https://github.com/awslabs/data-transformation-pipeline-cdk-constructs)
 The AWS Data Transformation Pipeline Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions in code to create predictable and repeatable infrastructure, called constructs. The goal of AWS Data Transformation Pipeline CDK Constructs is to help developers build data transformation pipelines with pattern-based definitions for their architecture.
+
+## Samples
 
 ### [Pixel Streaming on Amazon Elastic Kubernetes Service](https://github.com/aws-samples/pixel-streaming-on-eks)
 Pixel Streaming is a remote rendering library in Unreal Engine. In this sample we show how to use Pixel Streaming with Amazon Elastic Kubernetes Service (EKS). By using EKS, we can utilize a scalable and cost-efficient cloud rendering environment.
