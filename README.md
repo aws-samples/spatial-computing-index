@@ -8,7 +8,8 @@ This page provides a single-source of discovery for Spatial Computing related AW
     - [AWS Data Transformation Pipeline CDK Constructs](#aws-data-transformation-pipeline-cdk-constructs)
 - [Samples](#samples)
     - [Pixel Streaming on Amazon Elastic Kubernetes Service](#pixel-streaming-on-amazon-elastic-kubernetes-service)
-    - [Spatial Real Time Translation](https://github.com/aws-samples/spatial-real-time-translation)
+    - [Spatial Real Time Translation](#spatial-real-time-translation)
+    - [Amazon Cognito and Unity Integration](#amazon-cognito-and-unity-integration)
     - [Unity Build Server with AWS CDK](#unity-build-server-with-aws-cdk)
     - [NVIDIA Omniverse Nucleus on Amazon EC2](#nvidia-omniverse-nucleus-on-amazon-ec2)
     - [Amazon Polly with Epic Games Metahumans](#amazon-polly-with-epic-games-metahumans)
@@ -52,6 +53,9 @@ In this sample we show how Amazon Transcribe, Amazon Translate, and Amazon Polly
 ### [Unity Build Server with AWS CDK](https://github.com/aws-samples/unity-build-server-with-aws-cdk)
 
 This AWS CDK sample projects deploys a Unity Build Server and Unity License Server on Amazon EC2. Unity Build Servers enable you to scale your build capacity with both automated and on-demand builds on Amazon EC2 hardware. Leverage floating licenses to easily deploy and manage build infrastructure at scale.
+
+### [Amazon Cognito and Unity Integration](https://github.com/aws-samples/amazon-cognito-unity-integration)
+This project demonstrates the seamless integration of Unity with AWS services, showcasing the utilization of Cognito User Pool and Identity Pool for secure JWT token-based authentication. The application uses AWS Identity and Access Management (IAM) to interact with API Gateway, Lambda functions, S3, and DynamoDB.
 
 ### [NVIDIA Omniverse Nucleus on Amazon EC2](https://github.com/aws-samples/nvidia-omniverse-nucleus-on-amazon-ec2)
 
