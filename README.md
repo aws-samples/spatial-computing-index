@@ -7,6 +7,7 @@ This page provides a single-source of discovery for Spatial Computing related AW
     - [Amazon Visual Asset Management System](#amazon-visual-asset-management-system)
     - [AWS Data Transformation Pipeline CDK Constructs](#aws-data-transformation-pipeline-cdk-constructs)
 - [Samples](#samples)
+    - [Amazon GameLift Streams React Starter Sample](#amazon-gamelift-streams-react-starter-sample)  
     - [Pixel Streaming on Amazon Elastic Kubernetes Service](#pixel-streaming-on-amazon-elastic-kubernetes-service)
     - [Spatial Real Time Translation](#spatial-real-time-translation)
     - [Amazon Cognito and Unity Integration](#amazon-cognito-and-unity-integration)
@@ -43,6 +44,9 @@ Visual Asset Management System (VAMS) is a purpose-built, AWS native solution fo
 The AWS Data Transformation Pipeline Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions in code to create predictable and repeatable infrastructure, called constructs. The goal of AWS Data Transformation Pipeline CDK Constructs is to help developers build data transformation pipelines with pattern-based definitions for their architecture.
 
 ## Samples
+
+### [Amazon GameLift Streams React Starter Sample](https://github.com/aws-samples/sample-amazon-gamelift-streams-react-app)
+The Amazon GameLift Streams React Starter sample repository allows developers to quickly get up and running with Amazon GameLift Streams. Amazon GameLift Streams helps game developers deliver game streaming experiences at up to 1080p resolution and 60 frames-per-second (fps) across devices. Publishers can deploy their game content in minutes, without modifications, onto fully-managed cloud-based GPU instances and deliver them directly to any device with a web browser.
 
 ### [Pixel Streaming on Amazon Elastic Kubernetes Service](https://github.com/aws-samples/pixel-streaming-on-eks)
 Pixel Streaming is a remote rendering library in Unreal Engine. In this sample we show how to use Pixel Streaming with Amazon Elastic Kubernetes Service (EKS). By using EKS, we can utilize a scalable and cost-efficient cloud rendering environment.
